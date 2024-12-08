@@ -1,1 +1,5 @@
-
+**Required Libraries (install using `requirements.txt`):**
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
