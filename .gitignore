@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+data/IDS_dataset.csv  # If the dataset is private or too large
+.env                  # If you're using environment variables
