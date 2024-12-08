@@ -20,5 +20,5 @@ This project implements a Network Intrusion Detection System (IDS) using various
 ## Setup and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vinaygummadi/IDS-Project.git
+   git clone https://github.com/vinaygummadi/Network-Analysis-and-IDS-project
    cd IDS-Project
