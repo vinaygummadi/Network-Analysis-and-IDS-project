@@ -22,3 +22,5 @@ This project implements a Network Intrusion Detection System (IDS) using various
    ```bash
    git clone https://github.com/vinaygummadi/Network-Analysis-and-IDS-project
    cd Network-Analysis-and-IDS-project
+
+Project Reference : https://github.com/N-Kishore-Kumar/Intrusion-Detection-System-using-ML-Algorithms
